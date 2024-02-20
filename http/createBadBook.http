@@ -1,0 +1,11 @@
+POST http://localhost:3000/books
+Content-Type: application/json
+
+{
+    "name": "3",
+    "author": "",
+    "description": "retyu ryrtyrtyrty rtyrtyrt",
+    "pageNum": 200,
+    "price": 1000,
+    "inStock": true
+  }
